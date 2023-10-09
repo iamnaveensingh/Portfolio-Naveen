@@ -19,7 +19,7 @@ const Home = () => {
           organization's success.
         </p>
         <Link
-          to="https://drive.google.com/file/d/1g5qniVEpy8F0I0bXZWe-pUOy_sXu39o_/view?usp=sharing"
+          to="https://drive.google.com/file/d/1jDEivb18mpMBZuXWgGyRCw5RI9qqOlK3/view?usp=sharing"
           target="_blank"
         >
           <button className="border-[#3D9239] border-2 items-center  flex w-fit px-4 py-2 rounded-xl hover:border-pink-600 transition-all duration-500 text-[#ccd6f6]">
